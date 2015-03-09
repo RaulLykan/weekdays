@@ -1,0 +1,4 @@
+1 1 1901 The Commonwealth of Australia was established
+4 8 1961 Barack Obama was born
+20 7 1969 Neil Armstrong said "One small step"
+1 1 2000 The current millenium began
